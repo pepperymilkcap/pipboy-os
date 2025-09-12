@@ -1,0 +1,206 @@
+2000-01-01T00:00:00.521Z ------- Booting 2v25.284 - 1.24 -------
+2000-01-01T00:00:00.543Z Reset flags: 0x0e
+2077-10-23T09:47:00.088Z Normal boot - showing main menu
+2000-01-01T00:00:00.525Z ------- Booting 2v25.284 - 1.24 -------
+2000-01-01T00:00:00.534Z Reset flags: 0x0e
+2077-10-23T09:47:00.088Z Normal boot - showing main menu
+2077-10-23T09:54:54.523Z ------- Booting 2v25.284 - 1.24 -------
+2077-10-23T09:54:54.532Z Reset flags: 0x14
+2077-10-23T09:54:54.628Z Entering factory test mode
+2077-10-23T09:55:18.530Z ------- Booting 2v25.284 - 1.24 -------
+2077-10-23T09:55:18.539Z Reset flags: 0x14
+2077-10-23T09:55:18.642Z Normal boot - showing main menu
+2077-10-23T18:24:44.530Z ------- Booting 2v25.284 - 1.24 -------
+2077-10-23T18:24:44.539Z Reset flags: 0x14
+2077-10-23T18:24:44.636Z Entering factory test mode
+2077-10-23T18:25:03.531Z ------- Booting 2v25.284 - 1.24 -------
+2077-10-23T18:25:03.539Z Reset flags: 0x04
+2077-10-23T18:25:03.643Z Normal boot - showing main menu
+2077-10-23T18:25:13.531Z ------- Booting 2v25.284 - 1.24 -------
+2077-10-23T18:25:13.540Z Reset flags: 0x14
+2077-10-23T18:25:13.637Z Entering factory test mode
+2025-09-09T18:16:25.155Z Error reading radio enabled status: Error: I2C Error: Arbitration (start)
+2025-09-09T18:17:43.532Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T18:17:43.615Z Reset flags: 0x14
+2025-09-09T18:17:43.720Z Playing boot animation
+2025-09-09T18:19:27.535Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T18:19:27.618Z Reset flags: 0x14
+2025-09-09T18:19:27.801Z Normal boot - showing main menu
+2025-09-09T18:19:38.011Z Timeout tuning to 10760
+2025-09-09T20:08:30.533Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T20:08:30.616Z Reset flags: 0x14
+2025-09-09T20:08:30.729Z Normal boot - showing main menu
+2025-09-09T21:02:18.525Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T21:02:18.533Z Reset flags: 0x14
+2025-09-09T21:02:18.645Z Normal boot - showing main menu
+2025-09-09T21:10:24.526Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T21:10:24.534Z Reset flags: 0x14
+2025-09-09T21:10:24.647Z Normal boot - showing main menu
+2000-01-01T00:00:00.526Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.686Z Reset flags: 0x0e
+2077-10-23T08:47:00.097Z Normal boot - showing main menu
+2000-01-01T00:00:00.534Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.694Z Reset flags: 0x0e
+2077-10-23T08:47:00.097Z Normal boot - showing main menu
+2000-01-01T00:00:00.527Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.611Z Reset flags: 0x0e
+2077-10-23T08:47:00.097Z Normal boot - showing main menu
+2025-09-09T22:15:30.737Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T22:15:30.743Z Reset flags: 0x00
+2025-09-09T22:15:30.856Z Normal boot - showing main menu
+2025-09-09T22:17:10.935Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T22:17:11.016Z Reset flags: 0x00
+2025-09-09T22:17:11.130Z Normal boot - showing main menu
+2025-09-09T22:18:03.992Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-09T22:18:04.073Z Reset flags: 0x00
+2025-09-09T22:18:04.188Z Normal boot - showing main menu
+2000-01-01T00:00:00.527Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.535Z Reset flags: 0x0e
+2077-10-23T08:47:00.099Z Normal boot - showing main menu
+2077-09-09T09:58:13.523Z ------- Booting 2v25.284 - 1.29 -------
+2077-09-09T09:58:13.531Z Reset flags: 0x14
+2077-09-09T09:58:13.646Z Normal boot - showing main menu
+2077-09-09T09:58:45.524Z ------- Booting 2v25.284 - 1.29 -------
+2077-09-09T09:58:45.532Z Reset flags: 0x14
+2077-09-09T09:58:45.647Z Normal boot - showing main menu
+2000-01-01T00:00:00.530Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.538Z Reset flags: 0x0e
+2077-10-23T07:47:00.099Z Normal boot - showing main menu
+2000-01-01T00:00:00.529Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.538Z Reset flags: 0x0e
+2077-10-23T07:47:00.099Z Normal boot - showing main menu
+2000-01-01T00:00:00.532Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.540Z Reset flags: 0x0e
+2077-10-23T07:47:00.099Z Normal boot - showing main menu
+2077-10-23T08:35:37.526Z ------- Booting 2v25.284 - 1.29 -------
+2077-10-23T08:35:37.616Z Reset flags: 0x14
+2077-10-23T08:35:37.732Z Normal boot - showing main menu
+2025-09-10T23:01:06.528Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-10T23:01:06.687Z Reset flags: 0x14
+2025-09-10T23:01:06.803Z Normal boot - showing main menu
+2025-09-10T23:07:16.679Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-10T23:07:16.761Z Reset flags: 0x00
+2025-09-10T23:07:16.876Z Normal boot - showing main menu
+2025-09-12T13:41:09.531Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T13:41:09.690Z Reset flags: 0x14
+2025-09-12T13:41:09.807Z Normal boot - showing main menu
+2025-09-12T13:41:30.539Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T13:41:30.546Z Reset flags: 0x00
+2025-09-12T13:41:30.662Z Normal boot - showing main menu
+2025-09-12T13:41:32.533Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T13:41:32.689Z Reset flags: 0x00
+2025-09-12T13:41:32.805Z Normal boot - showing main menu
+2025-09-12T14:17:18.521Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:17:18.531Z Reset flags: 0x14
+2025-09-12T14:17:18.648Z Normal boot - showing main menu
+2025-09-12T14:20:43.344Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:20:43.426Z Reset flags: 0x00
+2025-09-12T14:20:43.542Z Normal boot - showing main menu
+2025-09-12T14:20:52.622Z Error: Module "wav" not found  at line 1 col 26
+if(isPlaying&&require("wav").stop){require("wav").stop();isPla...
+                           ^
+in function "stopPlaying" called from line 1 col 25
+if(isPlaying)stopPlaying();else playSelected();
+                             ^
+in function called from system
+
+2025-09-12T14:22:50.523Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:22:50.532Z Reset flags: 0x00
+2025-09-12T14:22:50.649Z Normal boot - showing main menu
+2000-01-01T00:00:00.529Z ------- Booting 2v25.284 - 1.29 -------
+2000-01-01T00:00:00.538Z Reset flags: 0x0e
+2077-10-23T08:47:00.099Z Normal boot - showing main menu
+2025-09-12T14:41:56.198Z Error: Unable to delete file : NO_FILE  at line 1 col 40
+require("fs").unlinkSync("antonclk.img");
+                                       ^
+
+2025-09-12T14:41:57.142Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:41:57.148Z Reset flags: 0x00
+2025-09-12T14:41:57.265Z Normal boot - showing main menu
+2025-09-12T14:42:04.733Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:42:04.890Z Reset flags: 0x00
+2025-09-12T14:42:05.006Z Normal boot - showing main menu
+2025-09-12T14:42:11.025Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:42:11.181Z Reset flags: 0x00
+2025-09-12T14:42:11.298Z Normal boot - showing main menu
+2025-09-12T14:48:25.452Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:48:25.609Z Reset flags: 0x00
+2025-09-12T14:48:25.725Z Normal boot - showing main menu
+2025-09-12T14:48:35.026Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:48:35.182Z Reset flags: 0x00
+2025-09-12T14:48:35.298Z Normal boot - showing main menu
+2025-09-12T14:48:41.297Z Error: Function "clear" not found!  at line 1 col 3
+G.clear();G.setFont("6x8",2);G.setFontAlign(-1,-1);G.drawStr...
+  ^
+in function "render" called from line 6 col 1206
+...lear();};listWavs();render();}
+                              ^
+at line 165 col 76 in .bootcde
+...al(fs.readFile("USER/"+app))
+                              ^
+in function "startApp" called from line 165 col 344 in .bootcde
+startApp(b)
+          ^
+in function "b" called from line 166 col 11500 in .bootcde
+...ltin("OK")),"f"==(typeof b)[0]?b(c):"o"==(typeof b)[0]&&("n"==(typeof b.value)[0]?...
+                                                    ^
+in function "select" called from line 166 col 10192 in .bootcde
+a?c.move(-a):c.select()
+                      ^
+in function called from system
+
+2025-09-12T14:50:23.128Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:50:23.285Z Reset flags: 0x00
+2025-09-12T14:50:23.401Z Normal boot - showing main menu
+2025-09-12T14:50:28.244Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:50:28.400Z Reset flags: 0x00
+2025-09-12T14:50:28.517Z Normal boot - showing main menu
+2025-09-12T14:50:36.274Z Error: Function "setColor" not found!  at line 1 col 105
+...tion){G.clearScreen();}else{G.setColor(0,0,0);G.fillRect(0,0,39...
+                                 ^
+in function "render" called from line 6 col 1512
+...,1,1);}};listWavs();render();}
+                              ^
+at line 165 col 76 in .bootcde
+...al(fs.readFile("USER/"+app))
+                              ^
+in function "startApp" called from line 165 col 344 in .bootcde
+startApp(b)
+          ^
+in function "b" called from line 166 col 11500 in .bootcde
+...ltin("OK")),"f"==(typeof b)[0]?b(c):"o"==(typeof b)[0]&&("n"==(typeof b.value)[0]?...
+                                                    ^
+in function "select" called from line 166 col 10192 in .bootcde
+a?c.move(-a):c.select()
+                      ^
+in function called from system
+
+2025-09-12T14:52:39.524Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:52:39.534Z Reset flags: 0x00
+2025-09-12T14:52:39.651Z Normal boot - showing main menu
+2025-09-12T14:53:45.531Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:53:45.689Z Reset flags: 0x00
+2025-09-12T14:53:45.805Z Normal boot - showing main menu
+2025-09-12T14:53:50.899Z ------- Booting 2v25.284 - 1.29 -------
+2025-09-12T14:53:51.056Z Reset flags: 0x00
+2025-09-12T14:53:51.172Z Normal boot - showing main menu
+2025-09-12T14:53:58.130Z Error: Function "setFont" not found!  at line 1 col 17
+clearScreen();G.setFont("6x8",2);G.setFontAlign(-1,-1);G.dra...
+                ^
+in function "render" called from line 6 col 1292
+...reen();};listWavs();render();}
+                              ^
+at line 165 col 76 in .bootcde
+...al(fs.readFile("USER/"+app))
+                              ^
+in function "startApp" called from line 165 col 344 in .bootcde
+startApp(b)
+          ^
+in function "b" called from line 166 col 11500 in .bootcde
+...ltin("OK")),"f"==(typeof b)[0]?b(c):"o"==(typeof b)[0]&&("n"==(typeof b.value)[0]?...
+                                                    ^
+in function "select" called from line 166 col 10192 in .bootcde
+a?c.move(-a):c.select()
+                      ^
+in function called from system
+
