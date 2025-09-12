@@ -29,7 +29,7 @@ let ship = {};
 let ammo = [];
 let ast = [];
 let score = 0;
-let level = 10;
+let level = 4; // Starting level, gets reset in gameStart()
 let timeSinceFired = 0;
 let lastFrame; // time of last frame
 
