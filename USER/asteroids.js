@@ -30,7 +30,7 @@ let ammo = [];
 let ast = [];
 let score = 0;
 let level = 10;
-let framesSinceFired = 0;
+let timeSinceFired = 0;
 let lastFrame; // time of last frame
 
 const SS = W/24;  // ship back length
@@ -64,7 +64,7 @@ function newAst(x,y) {
 }
 
 function gameStop() {
-  console.log("Game over");
+  // console.log("Game over"); // Removed debug output
   running = false;
   G.clear(1).setFontMonofonto28().setFontAlign(0,0).drawString("Game Over!",W/2,H/2).flip();
 }
@@ -120,7 +120,7 @@ function onFrame() {
       vx:Math.cos(ship.r)*3,
       vy:Math.sin(ship.r)*3,
     });
-    Pip.audioStartVar(Pip.audioBuiltin("CLICK"));
+    // Pip.audioStartVar(Pip.audioBuiltin("CLICK")); // Removed beeping sound that interrupts other audio
   }
 
   G.clear(1).setFontMonofonto28().drawString(score,8,8);
