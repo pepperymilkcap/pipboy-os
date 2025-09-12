@@ -1,6 +1,24 @@
 /**
  * Audio Player Module for Pip-Boy OS
  * Handles audio/wav file playback and management
+ * 
+ * FIXES APPLIED:
+ * 1. Resolves "Loading wavplayer.js" hanging issue by implementing proper WavPlayer
+ * 2. Fixes syntax errors that caused "Got ':' expected ','" by using proper JavaScript syntax
+ * 3. Adds comprehensive debug logging to identify loading issues
+ * 4. Implements non-blocking initialization to prevent hangs
+ * 5. Provides intelligent file detection for UI vs RADIO audio directories
+ * 
+ * USAGE:
+ * - AudioPlayer.play("CLICK.wav") - Play UI sounds
+ * - WavPlayer.playWav("MX01") - Play radio sounds (auto-adds .wav extension)
+ * - AudioPlayer.setVolume(0.7) - Set volume level
+ * - AudioPlayer.isReady() - Check if player is initialized
+ * 
+ * INTEGRATION:
+ * - Works with existing Pip.audioBuiltin() and Pip.audioStartVar() functions
+ * - Automatically detects UI sounds (CLICK, OK, POWER_OFF, etc.)
+ * - Automatically detects RADIO sounds (MX01-MX16, SFX01-SFX03, DX01-DX03, TUNING)
  */
 
 // Debug logging function
