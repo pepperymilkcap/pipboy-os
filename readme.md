@@ -1,4 +1,5 @@
 # Wand Company Pip-Boy Device Reference Guide
+# Generated Via Claude Scanning a RAM Dump
 ## Hardware Inputs, Functions, and Programming Interface
 
 ### HARDWARE INPUTS & CONTROLS
