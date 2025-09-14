@@ -65,8 +65,10 @@ Mode determined by MODE_SELECTOR analog voltage:
 - >0.1V: INV (2)
 - ≤0.1V: STAT (1)
 
-- ## Known Offical Available Inputs
-LED_RED             //  Red element of RGB LED
+## Known Available Inputs
+Found on Pip-Boy Wand Company store repo:
+
+```LED_RED             //  Red element of RGB LED
 LED_GREEN           //  Green element of RGB LED
 LED_BLUE            //  Blue element of RGB LED
 LED_TUNING          //  Radio tuning indicator LED
@@ -79,7 +81,7 @@ KNOB2_B             //  Thumbwheel encoder B
 KNOB1_BTN           //  Left knob "select" button
 KNOB1_A             //  Left knob encoder A
 KNOB1_B             //  Left knob encoder B
-BTN_POWER           //  "Power" button
+BTN_POWER           //  "Power" button```
 
 ### PROGRAMMING INTERFACE
 
