@@ -144,7 +144,8 @@ Mode determined by MODE_SELECTOR analog voltage:
   century: 20,
   color: {r:0, g:255, b:0, scanline:128, overscan:128},
   clock12hr: true
-}``
+}```
+
 # Known Offfical Available Elements
 LED_RED             //  Red element of RGB LED
 LED_GREEN           //  Green element of RGB LED
